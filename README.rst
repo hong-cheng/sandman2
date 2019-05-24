@@ -1,6 +1,8 @@
 sandman2
 ========
 
+testing
+
 |Build Status| |Coverage Status|
 
 sandman2 automagically generates a RESTful API service from your
